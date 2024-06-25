@@ -1,0 +1,4 @@
+[submodule "dist"]
+	path = dist
+	url = https://github.com/daimular-ito11/ui-demo-v3.git
+	branch = dist-branch
